@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="pwd_count_label">Select Passwords count :</string>
+    <string name="pwd_length_label">Select Passwords length :</string>
+    <string name="pwd_label">Password :</string>
+    <string name="button_generate_thread">Generate Passwords (Thread)</string>
+    <string name="button_generate_async">Generate Passwords (Async Task)</string>
+</resources>
